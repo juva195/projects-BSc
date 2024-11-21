@@ -1,0 +1,1 @@
+This report is one of three projects necessary for my bachelor's degree in aerospace engineering. It is primarily concerned with the investigation of various trajectories used to transport a satellite between two orbits. The project analyses these trajectories and attempts to optimize the fuel cost and time required to accomplish such manoeuvres.
